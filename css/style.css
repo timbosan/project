@@ -1,0 +1,28 @@
+/* Base Element Styles
+   ====================================================== */
+
+
+
+body {
+    line-height: 1.6;
+    color: royalblue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Containers
+   ====================================================== */
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+}
