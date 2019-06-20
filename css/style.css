@@ -4,13 +4,41 @@
 
 
 body {
-    line-height: 1.6;
-    color: royalblue;
-
+    min-height: 400px;
+    margin-bottom: 150px;
+    margin-left; 
+    clear: both;
+    color: black;
 }
 
 
+img {
+    max-width: 100%;
+    max-height: auto;
+}
 
+/* Original title css
+h1 {
+    color: red;
+    clear: both;
+    font-style: italic;
+    font-family: cursive;
+    max-width: 100%;
+    max-height: auto;
+    text-align: center;
+    background-color: royalblue;
+
+}
+*/
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+ 
+  
+
+}
 
 
 
@@ -26,3 +54,34 @@ body {
     width: 70%;
     margin: 0 auto;
 }
+
+.copyright {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: yellow;
+    text-align: left;
+  }
+
+.title {
+    font-size: 2em;
+    margin: 0;
+    font-style: italic;
+    font-family: cursive;
+    color: red;
+    background-color: royalblue;
+}
+
+.main-nav {
+    margin-top: 5px;
+}
+
+.title,
+.main-nav a {
+    text-align: center;
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+} 
