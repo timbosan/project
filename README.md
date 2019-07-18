@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/50430094?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="timbosan/project" /><meta property="og:url" content="https://github.com/timbosan/project" /><meta property="og:description" content="restaurant website. Contribute to timbosan/project development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDIzNTEwNzcxOmYwMzQ1YzAxMWEyMjdjYWJkYmI5NWUyZDdmZDNiZjFmZThhMjk0YTJhYjRiYmQ4ODRhNWFkYTYzNmIzNDA1ZDg=--4696bb1bc828659528744ac894fa0f6c576e2d71">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDIzNTEwNzcxOmJjZWQzYjQ0YmNiN2I5M2JiZTU1N2M4ODMwYTAwNjQzNzU4ZmE3NjFmM2VkYmY0MjlmM2RiYmFiNDgyY2I1NTE=--93e2d6ac42ba04dc1e7243d6fa79c3a37aa7c96c">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D5FC:7343:8FA96:F1BB4:5D30FFD3" data-pjax-transient>
+  <meta name="request-id" content="D6A8:589D:6E272:C689B:5D3100A9" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D5FC:7343:8FA96:F1BB4:5D30FFD3" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="50430094" /><meta name="octolytics-actor-login" content="timbosan" /><meta name="octolytics-actor-hash" content="e6370e559d2fca04b710516344473f949b2229c1f18f4ae35a8de29d32712b7d" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D6A8:589D:6E272:C689B:5D3100A9" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="50430094" /><meta name="octolytics-actor-login" content="timbosan" /><meta name="octolytics-actor-hash" content="e6370e559d2fca04b710516344473f949b2229c1f18f4ae35a8de29d32712b7d" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="timbosan">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="OWRhNTAzOTNjMGRiZTUwZWE3NTc3YTZmYzE5ZDRhODJmNWM0MzM0YTI2ZWZmNmIxZDU0N2E0MDc1NjJkMjA4Ynx7InJlbW90ZV9hZGRyZXNzIjoiNC41OS40Mi4xNjIiLCJyZXF1ZXN0X2lkIjoiRDVGQzo3MzQzOjhGQTk2OkYxQkI0OjVEMzBGRkQzIiwidGltZXN0YW1wIjoxNTYzNDkyMzE2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="NzQ2YWRhOTFkNTlkZWVlNzI2Yjc4OTRhMDFhMDM0OTE4MzEwMjY4MzJjNTRmZjY2MmVmNDBiYzg2NGJiNmM5M3x7InJlbW90ZV9hZGRyZXNzIjoiNC41OS40Mi4xNjIiLCJyZXF1ZXN0X2lkIjoiRDZBODo1ODlEOjZFMjcyOkM2ODlCOjVEMzEwMEE5IiwidGltZXN0YW1wIjoxNTYzNDkyNTI2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,DISPLAY_COMMENTER_FULL_NAME">
 
@@ -158,7 +158,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=VUSrRX1ylAI1pA47iXb5++e821EWWxTATIT3f1dbE9JxwlDN2sv9YlyTFTY0sguAEBke0nkiei1ACm2Ehl001A=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=gqMNYuUUVvqt4X17DDMVPiqboymIpmnum6+g8p1216ymJfbqQq0/msTWZnax9+dF3T5mquffBwOXIToJTHDwqg=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -309,7 +309,7 @@
       <img class="avatar" src="https://avatars2.githubusercontent.com/u/50430094?s=40&amp;v=4" width="20" height="20" alt="@timbosan" />
       timbosan
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DXnj3Q9NVLW+H8GPzr8V8uS1Id/E32x9rsh5K1E/0F/KK8GeHpdUHW9WZZoS8yv7h0p1e6vJRmrOo1Vp4rn4Sg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="K/BCD/2ZbqOPZmeqnWpL14QeK6TYTe5eoIap2kxg3mfsomBM7ENuC14vw79BJnXe5+F/ALdbxEnA7YWY/+b2cg==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -403,7 +403,7 @@
     border
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:50430094,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:50430094,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D5FC:7343:8FA96:F1BB4:5D30FFD3&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;}}" data-hydro-click-hmac="90e385690e6bd4f6fa12833e743c1c79b2055f83c735e9f3c5d334359aea4af7">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:50430094,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:50430094,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D6A8:589D:6E272:C689B:5D3100A9&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;}}" data-hydro-click-hmac="5f7e820097fb15451c5fe0943bc12377ce423fb9d94cdf09b06342779bf2ca4c">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -429,7 +429,7 @@
         </div>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="DHOevWROM/tXSSKIH1QJO+eZVPvriXtGtQiJ9lG522wW1PnKreziTBRluDil24K6W+KiACriyzJ7sQ35fkJ9Wg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="yovGpZs+i5ajUjdl1FobuzIb9tvuNtCZxw/vDZzY6+7QLKHSUpxaIeB+rdVu1ZA6jmAAIC9dYO0JtmsCsyNN2A==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -549,17 +549,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-07-18T19:55:16-04:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-07-18T19:58:46-04:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-07-18T20:25:16-04:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-07-18T20:28:46-04:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-07-18T23:25:16-04:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-07-18T23:28:46-04:00">
             in 4 hours
           </button>
         </li>
@@ -608,7 +608,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="w1dny8+JspqKp9P3zDD4wRUKB/SNFQN9YyDoMbxh63gEBUWI3lOyMlvud+IQfMbIdvVTUOIDKWoDS8RzD+fDbQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="T7ucqMP6y96DOqHYfjvTSbHru4r1UAhoiqgACAJRn8KI6b7r0iDLdlJzBc2id+1A0hTvLppGIn/qwyxKsde31w==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -658,10 +658,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zH+rGGCu/XGplbA6wUW6gp7U+CrZrST30PZgph4lFjz3+pi4W4Q+1evC01ZaC0yKguo4p/OEXlrfLi4ikmGqdA==" />      <input type="hidden" name="repository_id" value="190662900">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4mol5SCxI4HXhxwmXe2ig0sPOFZriqV3X2svO7edXmvZ7xZFG5vgJZXQf0rGo1SLVzH420Gj39pQs2G/O9niIw==" />      <input type="hidden" name="repository_id" value="190662900">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:190662900,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D5FC:7343:8FA96:F1BB4:5D30FFD3&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;,&quot;user_id&quot;:50430094}}" data-hydro-click-hmac="b5675883066a6544c2f3b3f4491602ca2e1e717171b2d1a873ec321e506814f2" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:190662900,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D6A8:589D:6E272:C689B:5D3100A9&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;,&quot;user_id&quot;:50430094}}" data-hydro-click-hmac="1b15f3a4a2291f327a9ab47a4a7f444f64d3b0bcede2dbede86e6c2d6287d609" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -732,18 +732,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/timbosan/project/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/knKPtpgATasGaTsnGC0PHMZtexkkKqHtXy2aUGDRxrKCJFrAiqVbwpYPtue4wBtbjx5ehpKiwBWjIRhlC7y9w==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/timbosan/project/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rwglLrgHbH7kEIjEr5WWklm7a8ZTujmtvKWuTFlbnKCbSX57YE34J0JREvOtFiLDRJ6nUC1gGCpfVZxEjPYpTQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar timbosan/project" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:190662900,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D5FC:7343:8FA96:F1BB4:5D30FFD3&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;,&quot;user_id&quot;:50430094}}" data-hydro-click-hmac="2529df644689c88521e8589b3876a8bc636a22a5e72cf979fc36bbe62d948cc6" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar timbosan/project" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:190662900,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D6A8:589D:6E272:C689B:5D3100A9&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;,&quot;user_id&quot;:50430094}}" data-hydro-click-hmac="a14d3754f37d8a79101390999e8252c1c24ec99c5238eac3e58a1b334c77c674" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/timbosan/project/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/timbosan/project/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nCJ1PIP7y6ORSWpcAbRRoZe9CnPlC1UHKE3CjWNQClW/Tlo5cX2fFGWu+8l9rsdtNE5rGWW725cwSeJ0TkyYrA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/timbosan/project/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dWXz6xjlaqX0JTU9Z2qAE0DEGpx41XcgfbxItyD/hMZWCdzu6mM+EgDCpKgbcBbf4zd79vhl+bBluGhODeMWPw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star timbosan/project" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:190662900,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D5FC:7343:8FA96:F1BB4:5D30FFD3&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;,&quot;user_id&quot;:50430094}}" data-hydro-click-hmac="0c646f5132641dbc81976b8b87bef7f700f2d048e5753e05411425409696ab60" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star timbosan/project" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:190662900,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D6A8:589D:6E272:C689B:5D3100A9&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;,&quot;user_id&quot;:50430094}}" data-hydro-click-hmac="34433cbd60ac2e8928e9b5cd1e230c65632e4c59044581e7695cf6eaa4ecc700" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/timbosan/project/stargazers"
            aria-label="0 users starred this repository">
@@ -893,9 +893,9 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/timbosan/project/blob/cdefd92b72dcc8f0583f80ac284ab30e135f6012/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/timbosan/project/blob/3b5bbe38a4114fb65930df297d394af04147a3cc/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:fac20f3b7490057789948d93fe5de88c -->
+    <!-- blob contrib key: blob_contributors:v21:3ac593774f3e9eaed08556ea3cb7488a -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 mb-2 flex-column flex-md-row">
@@ -955,12 +955,12 @@
           <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=50430094" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/timbosan"><img class="avatar" src="https://avatars2.githubusercontent.com/u/50430094?s=40&amp;v=4" width="20" height="20" alt="@timbosan" /></a>
           <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=50430094" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/timbosan">timbosan</a>
             <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Update README.md" class="link-gray" href="/timbosan/project/commit/cdefd92b72dcc8f0583f80ac284ab30e135f6012">Update README.md</a>
+              <a data-pjax="true" title="Update README.md" class="link-gray" href="/timbosan/project/commit/3b5bbe38a4114fb65930df297d394af04147a3cc">Update README.md</a>
             </span>
         </span>
         <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/timbosan/project/commit/cdefd92b72dcc8f0583f80ac284ab30e135f6012" data-pjax>cdefd92</a>
-          <relative-time datetime="2019-07-18T23:24:28Z">Jul 18, 2019</relative-time>
+          <a class="pr-2 text-mono link-gray" href="/timbosan/project/commit/3b5bbe38a4114fb65930df297d394af04147a3cc" data-pjax>3b5bbe3</a>
+          <relative-time datetime="2019-07-18T23:28:32Z">Jul 18, 2019</relative-time>
         </span>
       </div>
 
@@ -998,7 +998,7 @@
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
       16 lines (12 sloc)
       <span class="file-info-divider"></span>
-    543 Bytes
+    577 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
@@ -1018,13 +1018,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/timbosan/project/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="v+iOVQP4Fx62PPK4mbF3Qu3joBktFPHJkldPiYhuDIqMqaXRySpFfGTpbjo/0ct0GV0GyUBlGw6BxsZmYoNRcQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/timbosan/project/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="md0KlFk69R4bJBA1HnOJFPNeBL3XhRJqIUAAi/HCVUmqnCEQk+infMnxjLe4EzUiB+Cibbr0+K0y0YlkGy8Isg==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Edit this file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/timbosan/project/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JyuvH1uLS0HwfgTqH3PL47ye0C3M0F1SXUMSiJ1WGZTRQkPTNIglGJPaSjdYdjMCv6tI21GD9GLwtbnEtABWBQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/timbosan/project/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VLYx9Ug88IujTQDLTa2H/BIC3UwmoypXGePv4lHYsmSi3905Jz+e0sDpThYKqH8dETdFurvwg2e0FUSueI799Q==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1042,20 +1042,14 @@
 <p>A restaurant website for my imaginary Filipino Restaurant.
 Use restaurantasiawebsite.html</p>
 <p>-Improved user experience by adding media query to take navigation menu from horizontal to vertical when &lt;550px.</p>
-<ul>
-<li>
-<p>3 examples of CSS:</p>
-<ol>
-<li>Sticky copywright</li>
-<li>Added background color to title</li>
-<li>Center-aligned blockquote</li>
-</ol>
-<p>-Simple Javascript confirm program with 2 different alerts depending on selection.
--Comments in HTML, CSS, and JS denoting sections and different ideas I had.
--This README.md
--On THIS GIT REPOSITORY</p>
-</li>
-</ul>
+- 3 examples of CSS:
+   1. Sticky copywright
+   2. Added background color to title
+   3. Center-aligned blockquote
+<p> -Simple Javascript confirm program with 2 different alerts depending on selection.</p>
+ <p> -Comments in HTML, CSS, and JS denoting sections and different ideas I had. </p>
+  <p>-This README.md</p>
+  <p>-On THIS GIT REPOSITORY</p>
 </article>
   </div>
 
@@ -1077,8 +1071,8 @@ Use restaurantasiawebsite.html</p>
      data-tagsearch-ref="master"
      data-tagsearch-path="README.md"
      data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:190662900,&quot;ref&quot;:&quot;master&quot;,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D5FC:7343:8FA96:F1BB4:5D30FFD3&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;,&quot;user_id&quot;:50430094}}"
-     data-hydro-click-hmac="7d3f937bd227d981368f9a4beb75e03f2f63e71d7b2d0528e258f860ec2754a7">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:190662900,&quot;ref&quot;:&quot;master&quot;,&quot;client_id&quot;:&quot;214740182.1558043929&quot;,&quot;originating_request_id&quot;:&quot;D6A8:589D:6E272:C689B:5D3100A9&quot;,&quot;originating_url&quot;:&quot;https://github.com/timbosan/project/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/timbosan/project&quot;,&quot;user_id&quot;:50430094}}"
+     data-hydro-click-hmac="f5be69d3bcc5656a68867671db6ae5874ee3e09f681654babc962cfd75c90967">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto">
     </div>
@@ -1101,7 +1095,7 @@ Use restaurantasiawebsite.html</p>
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.35613s from unicorn-7ff8fd5756-jjpz2">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.33870s from unicorn-5974877cc6-sdqn5">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
