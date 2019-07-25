@@ -17,7 +17,7 @@ if (r == true) {
 var slideIndex = 1;
 showSlides(slideIndex);
 
-/* Next/previous controls */
+/* Next/prev controls */
 function plusSlides(n) {
   showSlides(slideIndex += n);
 }
