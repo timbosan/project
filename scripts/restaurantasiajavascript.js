@@ -8,5 +8,5 @@ var r = confirm("Do You Like Filipino Food?");
 if (r == true) {
   alert ("Come Right In!");
 } else {
-  alert("Let's Change your mind");
+  alert("Let's Change Your Mind");
 }
